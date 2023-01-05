@@ -1,0 +1,9 @@
+.search img {
+  width: 20px;
+  border-radius: 30%;
+  margin: 0 10px;
+}
+
+.search input {
+  margin-right: 20px;
+}

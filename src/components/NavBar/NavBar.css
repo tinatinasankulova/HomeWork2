@@ -1,0 +1,11 @@
+.nav {
+  grid-area: n;
+  background-color: burlywood;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+  padding: 30px 20px;
+}

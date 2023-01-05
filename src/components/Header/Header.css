@@ -1,0 +1,10 @@
+.header {
+  grid-area: h;
+  background-color: rgb(147, 186, 147);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+
